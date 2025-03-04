@@ -1,9 +1,10 @@
 # data types
-# primitive/fundamentals
+# primitive/fundamentals/basic
 
 # 1. (str) string -> "sequences of characters", "francis", "jeff", "benjamin", 'ambrose'
 _str = "francis"
 print(_str, type(_str)) # expect francis, <class 'str>
+
 # 2. (int, float) integers, floating point numbers -> "int represent integers, e.g 1,2,3,45" and "float represent decimals, e.g 1.00001, 2.0,3.0"
 _int = 1
 print(_int, type(_int)) # expect 1, <class, int>
