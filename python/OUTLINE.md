@@ -21,9 +21,7 @@ Curriculum for 2025 python programming course outline.
 - Understanding debugging, with PDB
 - Understanding virtual environments
 ## Week 6
-- Unit testing, integrated testing
-- Understanding debugging, with PDB
-- Understanding virtual environments
+- Practice + pair programming 
 ## Week 7
 - Packing and distribution
 - Understanding third party packages
