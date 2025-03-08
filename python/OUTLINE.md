@@ -7,7 +7,7 @@ Curriculum for 2025 python programming course outline.
 ## Week 2
 - Configuring integrated development environment and understanding IDEs of market
 - Modularity and understanding object model
-- Exceptions
+- Operations and Exceptions
 ## Week 3
 - Functions
 - Closures and Decorators
