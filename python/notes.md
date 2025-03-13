@@ -48,3 +48,20 @@ for loop
 for x in range(1, 100,3):
     print(x)
 ```
+
+## Functions
+Modular units of code designed to perform specific functions, returning a value 
+from a function is optional, see example below to get a much clearer and better 
+understanding.
+e.g.
+Here, 👇 function does not return any value;  
+```py
+def say_hello():
+  print("Hello world")
+```
+
+Here,👇 function does return a value;  
+```py
+def say_hello():
+  return "hello world"
+``` 
