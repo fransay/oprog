@@ -3,7 +3,7 @@
 
 # Task: checking if a number is even or odd
 # Approach 1: Without a function definition
-number = 3
+number = 6
 if number % 2 == 0:
     print("Number is even")
 elif number % 2 == 1:
@@ -45,4 +45,4 @@ print("exp2 =", exp2)
 exp3 = exponent3(2.00)
 print("exp3 = ", exp3)
 
-# Nested functions && closures .
+# Nested functions && closures.
